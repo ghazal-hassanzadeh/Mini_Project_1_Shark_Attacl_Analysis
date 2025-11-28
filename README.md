@@ -1,1 +1,1 @@
-# Mini_Project_1_Shark_Attacl_Analysis
+# Mini_Project_1_Shark_Attack_Analysis
